@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467411829785",
+    "project_id": "pickedme-aa24d",
+    "storage_bucket": "pickedme-aa24d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467411829785:android:69a1b8ffdaa0f234079688",
+        "android_client_info": {
+          "package_name": "com.example.pickmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxNaX3tIxnyNL1O7Lr4wGN7XNr7CSbq3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
